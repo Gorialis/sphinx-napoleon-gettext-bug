@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import random
-
-
 def documented_function(small: bool = False):
     """
     Use this when you want to look at a picture of a duck.
