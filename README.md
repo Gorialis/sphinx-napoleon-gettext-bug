@@ -25,6 +25,10 @@ msgstr ""
 #: ../../../foobar/__init__.py:docstring of foobar.documented_function:3
 msgid "Whether the duck should be small or not."
 msgstr ""
+
+#: ../../../foobar/__init__.py:docstring of foobar.documented_function:6
+msgid "This duck is very small."
+msgstr ""
 ```
 ```
 #: ../../../foobar/__init__.py:docstring of foobar.documented_function:9
